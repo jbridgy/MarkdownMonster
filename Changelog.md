@@ -35,7 +35,7 @@ It's been a while since the last synced to Ace Editor updates and it looks like 
 Preview Zoom previously only worked on the active Preview tab and would not stick around if a new tab was activated or even when navigating back to the same tab. Now applying a zoom level (via Ctrl-Mousewheel or `ctrl-+` and `ctrl+-`) is applied to **all preview tabs** and remains sticky for the entire session.
 
 * **Add Non-Breaking Space and Non-Breaking Hyphen Markup**  
-Added menu and command palette options for inserting non-breaking space and non-breaking (`&nbsp;`) and non-breaking hyphen (`&#8209;`) characters into markup. You can find it on the `Extra Markup (ctrl-x)` menu and using the command palette. ([#1034](https://github.com/RickStrahl/MarkdownMonster/issues/1034))
+Added menu and command palette options for inserting non-breaking space (`&nbsp;`) and non-breaking hyphen (`&#8209;`) characters into markup. You can find it on the `Extra Markup (ctrl-x)` menu and using the command palette. ([#1034](https://github.com/RickStrahl/MarkdownMonster/issues/1034))
 
 * **Add Smaller Text Icon to Main Toolbar**  
 There's now a small text icon on the toolbar that wraps text with `<small>text</small>` tags.
